@@ -1,0 +1,87 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    background-color: azure;
+  }
+  body{
+      background-color: rgba(255, 0, 221, 0.205);
+      width: 75%;
+     margin: 0px auto;
+     /* width: 100%; */
+     /* position: absolute; */
+  }
+  .centerDiv{
+      margin:0 auto;
+      width:800px;
+  }
+
+  header {
+      background-color:#E892DD;
+      padding: 10px;
+      border: 3px solid purple;
+      margin-bottom: 10px;
+      font-size:25px;
+      display: block;
+      margin: 0 auto;
+  }
+  nav {
+      margin-left:200px;
+      width: 100%;
+      align-content: center;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color:black;
+  }
+  section {
+      width: 80%;
+      display: inline-block;
+      /* float: center; */
+  }
+
+  .guys{
+    height: 500px;
+    width: 800px;
+  }
+  .handsphoto{
+      height: 300px;
+      width: 800px;
+  }
+  .walk{
+    height: 500px;
+    width: 800px;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      /* background-color:; */
+      /* padding:; */
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:pink;
+      color:;
+      clear: both;
+      display: block;
+  }
